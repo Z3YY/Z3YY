@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World! I'm Jaee 👋<br><br>![Jaee]<br><br><br>Here are some ideas to get you started:<br><br><br>#### Contact Me<br><br>![https://www.instagram.com/npcable/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://mail.google.com/mail/?view=cm&fs=1&to=zaelani.10122390@mahasiswa.unikom.ac.id](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/sahlhafidzirkhami](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)<br><br>#### Github Stats<br><br>![Z3YY GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3YY&show_icons=true&theme=transparent)<br><br>
+## Hello World! I'm Jaee 👋<br><br>![Jaee]<br><br><br>Welcome to my profile <br><br>Z3YY GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3YY&show_icons=true&theme=transparent)<br><br>
 
 
 ## 🌐 Socials:
