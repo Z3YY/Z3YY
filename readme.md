@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World! I'm Jaee 👋<br><br>![Jaee]<br><br><br>Welcome to my profile <br><br>Z3YY GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3YY&show_icons=true&theme=transparent)<br><br>
+## Hello World! I'm Jaee 👋<br><br>![Jaee]<br><br><br>Welcome to my profile<br><br><br>#### Github Stats<br><br>![Z3YY GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3YY&show_icons=true&theme=transparent)<br><br>
 
 
 ## 🌐 Socials:
